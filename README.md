@@ -75,7 +75,7 @@ Virtual Try-On feature allows users to upload photos to see how they look in dif
 - Automated Logistics: Implement automated logistics solutions for collecting and processing returned packaging and clothing, improving efficiency and reducing carbon footprint.
 - Educational Campaigns: Launch educational campaigns to raise awareness about sustainable fashion and the benefits of recycling.
 - Partnerships with Recycling Companies: Establish partnerships with recycling and upcycling companies to expand the range and quality of recycled products.
-3.**Virtual Try-On**
+3. **Virtual Try-On**
 - Enhanced Realism: Use advanced 3D scanning and modeling technologies to improve the realism and accuracy of virtual try-ons.
 - Expanded Product Range: Extend virtual try-on capabilities to accessories such as shoes, hats, and jewelry, providing a complete styling experience.
 - User Feedback Integration: Incorporate user feedback to continuously refine and enhance the virtual try-on experience, ensuring it meets customer needs and preferences.
