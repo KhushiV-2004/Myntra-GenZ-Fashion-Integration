@@ -25,6 +25,18 @@ Our project enhances the Myntra shopping platform by integrating several innovat
    - Allow users to upload photos to see how outfits look on them.
    - Provide both 2D and 3D model views for better outfit visualization.
 
+## Idea Submission
+
+If you find our project ideas interesting or useful, show your support by clicking the link below:
+
+[👍 Idea](link-to-your-repository)
+
+### Demo Video
+<video width="640" height="360" controls>
+    <source src="videos/your-video-file.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
 ### Features
 - **User-Generated Design Uploads:** Enable users to submit original designs.
 - **Fashion Shows:** Host events to showcase user designs.
@@ -53,10 +65,6 @@ Virtual Try-On feature allows users to upload photos to see how they look in dif
 - **Framework:** MVTON (Monocular-to-3D Virtual Try-On Network)
 - **Languages:** Python, PyTorch
 - **Tools:** TensorFlow, OpenCV
-
-### Demo Video
-
-
 
 
 ### Acknowledgments
