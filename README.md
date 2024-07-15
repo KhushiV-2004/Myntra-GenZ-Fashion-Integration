@@ -31,7 +31,7 @@ Our project enhances the Myntra shopping platform by integrating several innovat
 
 ### Demo Video
 
-![Demo video](/Image&Videos/Myntra-GenZ-Fashion-Integration_(1).mp4)
+![Demo video]([/Image&Videos/Myntra-GenZ-Fashion-Integration_(1).mp4](https://youtu.be/A4KfPtVelEU))
 
 ### Features
 - **User-Generated Design Uploads:** Enable users to submit original designs.
