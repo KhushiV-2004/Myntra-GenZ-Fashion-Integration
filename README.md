@@ -20,7 +20,7 @@ Our project enhances the Myntra shopping platform by integrating several innovat
 2. **GoGreen Initiative: Recycling Packaging and Clothes Service:**
    - Encourage customers to return packaging materials.
    - Support recycling and reduce waste.
-
+     
 3. **Virtual Try-On: AR and 3D Modeling for Fit and Styling:**
    - Allow users to upload photos to see how outfits look on them.
    - Provide both 2D and 3D model views for better outfit visualization.
