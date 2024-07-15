@@ -35,7 +35,7 @@ If you want to process your own data, some more steps are needed (the &#8594; in
 ## Running Inference
 We provide demo inputs under the mpv3d_example folder, where the target clothing and the reference person are like:
 
-![Demo inputs](/assets/demo_inputs.png)
+![Demo inputs](/M3D-VTON/assets/demo_inputs.png)
 
 with inputs from the mpv3d_example folder, the easiest way to get start is to use the [pretrained models](https://figshare.com/s/fad809619d2f9ac666fc) and sequentially run the four steps below:
 
