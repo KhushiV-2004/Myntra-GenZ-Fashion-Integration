@@ -32,7 +32,7 @@ Our project enhances the Myntra shopping platform by integrating several innovat
 ### Demo Video
 
 <div align="center">
-  <iframe width="560" height="315" src="[https://www.youtube.com/embed/A4KfPtVelEU]" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/A4KfPtVelEU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### Features
