@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech and Fashion | Myntra</title>
+    <link rel="stylesheet" href="/Style/styles.css">
+    <link rel="stylesheet" href="/Style/detailed-styles.css"> <!-- New CSS file for detailed show pages -->
+</head>
+<body>
+    <header>
+        <h1>Tech and Fashion</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="ongoing-shows.html">Ongoing Shows</a></li>
+                <li><a href="past-shows.html">Previous Shows</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="show-details">
+        <h2>Theme: Tech and Fashion</h2>
+        <p>
+            Blend technology with fashion to create innovative and cutting-edge pieces that redefine the future of fashion. We invite designers to submit their designs that integrate technology in unique and stylish ways.
+        </p>
+
+        <h3>Submission Guidelines:</h3>
+        <ul>
+            <li>Designs must be submitted in PDF format.</li>
+            <li>Each designer can submit up to three designs.</li>
+            <li>Designs should reflect the theme "Tech and Fashion."</li>
+            <li>Entries should include a brief description of the inspiration behind the design.</li>
+        </ul>
+
+        <h3>Deadline:</h3>
+        <p>July 31, 2024</p>
+
+        <h3>Result Announcement Date:</h3>
+        <p>August 15, 2024</p>
+
+        <div class="upload-section">
+            <form action="/upload" method="post" enctype="multipart/form-data">
+                <label for="design">Upload your design (PDF):</label>
+                <input type="file" id="design" name="design" accept="application/pdf">
+                <button type="submit">Upload</button>
+            </form>
+            <div id="message"></div>
+        </div>
+    </section>
+    <script src="upload.js"></script>
+</body>
+</html>

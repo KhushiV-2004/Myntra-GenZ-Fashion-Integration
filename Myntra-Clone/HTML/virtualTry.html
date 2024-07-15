@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virtual Try-On - Myntra</title>
+    <link rel="stylesheet" href="/Style/virtualTry.css">
+</head>
+<body>
+    <header class="header">
+        <h1>Virtual Try-On</h1>
+    </header>
+    <main class="main-container">
+        <section class="info-section">
+            <h2>Welcome to Myntra's Virtual Try-On</h2>
+            <p>
+                Upload your image and see how our latest fashion looks on you instantly! Simply upload an image, and our
+                system will display a try-on image and a 3D model of you wearing the selected fashion item.
+            </p>
+        </section>
+        <section class="upload-section">
+            <h2>Upload Your Image</h2>
+            <form id="upload-form" enctype="multipart/form-data">
+                <input type="file" id="image-input" name="image" accept="image/*" required>
+                <button type="submit">Upload</button>
+            </form>
+            <div class="image-preview" id="uploaded-image-container">
+                <img id="uploaded-image" alt="Uploaded Image" style="display: none;">
+            </div>
+        </section>
+        <section class="display-section">
+            <h2>Your Virtual Try-On</h2>
+            <div class="display-container">
+                <div class="display-item">
+                    <img id="tryon-image" alt="Try-On Image" style="display: none;">
+                </div>
+                <div class="display-item">
+                    <model-viewer id="tryon-3dmodel" src="" alt="3D Model" auto-rotate camera-controls style="display: none;"></model-viewer>
+                </div>
+            </div>
+        </section>
+    </main>
+    <script src="virtualTry.js"></script>
+    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+</body>
+</html>

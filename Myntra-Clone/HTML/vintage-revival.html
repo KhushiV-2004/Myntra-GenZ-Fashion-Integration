@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vintage Revival | Myntra</title>
+    <link rel="stylesheet" href="/Style/styles.css">
+    <link rel="stylesheet" href="/Style/detailed-styles.css"> <!-- New CSS file for detailed show pages -->
+</head>
+<body>
+    <header>
+        <h1>Vintage Revival</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="ongoing-shows.html">Ongoing Shows</a></li>
+                <li><a href="past-shows.html">Previous Shows</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="show-details">
+        <h2>Theme: Vintage Revival</h2>
+        <p>
+            Rediscover the charm and elegance of vintage fashion. Designers are invited to create modern interpretations of classic styles from past decades, celebrating timeless fashion trends.
+        </p>
+
+        <h3>Submission Guidelines:</h3>
+        <ul>
+            <li>Designs must be submitted in PDF format.</li>
+            <li>Each designer can submit up to three designs.</li>
+            <li>Designs should reflect the theme "Vintage Revival."</li>
+            <li>Entries should include a brief description of the era or style that inspired the design.</li>
+        </ul>
+
+        <h3>Deadline:</h3>
+        <p>July 31, 2024</p>
+
+        <h3>Result Announcement Date:</h3>
+        <p>August 15, 2024</p>
+
+        <div class="upload-section">
+            <form action="/upload" method="post" enctype="multipart/form-data">
+                <label for="design">Upload your design (PDF):</label>
+                <input type="file" id="design" name="design" accept="application/pdf">
+                <button type="submit">Upload</button>
+            </form>
+        </div>
+        <div id="message"></div>
+    </section>
+    <script src="upload.js"></script>
+</body>
+</html>

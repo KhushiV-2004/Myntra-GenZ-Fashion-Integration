@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eco-Fashion | Myntra</title>
+    <link rel="stylesheet" href="/Style/styles.css">
+    <link rel="stylesheet" href="/Style/detailed-styles.css"> <!-- New CSS file for detailed show pages -->
+</head>
+<body>
+    <header>
+        <h1>Eco-Fashion</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="ongoing-shows.html">Ongoing Shows</a></li>
+                <li><a href="past-shows.html">Previous Shows</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="show-details">
+        <h2>Theme: Eco-Fashion</h2>
+        <p>
+            Embrace sustainability and eco-friendly practices in fashion design. We invite designers to showcase their creations that prioritize environmental conservation and ethical fashion principles.
+        </p>
+
+        <h3>Submission Guidelines:</h3>
+        <ul>
+            <li>Designs must be submitted in PDF format.</li>
+            <li>Each designer can submit up to three designs.</li>
+            <li>Designs should reflect the theme "Eco-Fashion."</li>
+            <li>Entries should include a brief description of the sustainable practices used.</li>
+        </ul>
+
+        <h3>Deadline:</h3>
+        <p>July 31, 2024</p>
+
+        <h3>Result Announcement Date:</h3>
+        <p>August 15, 2024</p>
+
+        <div class="upload-section">
+            <form action="/upload" method="post" enctype="multipart/form-data">
+                <label for="design">Upload your design (PDF):</label>
+                <input type="file" id="design" name="design" accept="application/pdf">
+                <button type="submit">Upload</button>
+            </form>
+        </div>
+        <div id="message"></div>
+    </section>
+    <script src="upload.js"></script>
+</body>
+</html>
