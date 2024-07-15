@@ -16,7 +16,7 @@ Our project enhances the Myntra shopping platform by integrating several innovat
    - Host fashion shows where designers submit their work.
    - Allow users to view past designs and new submissions.
    - Offer Myntra vouchers as prizes to increase participation.
-
+     
 2. **GoGreen Initiative: Recycling Packaging and Clothes Service:**
    - Encourage customers to return packaging materials.
    - Support recycling and reduce waste.
