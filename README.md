@@ -31,25 +31,28 @@ Our project enhances the Myntra shopping platform by integrating several innovat
 - **GoGreen Initiative:** Promote recycling of packaging and old clothes.
 - **Virtual Try-On:** Use AR and 3D modeling for fit and styling.
 
-## Implementation Details
+### Myntra-Clone (Website)
 
-### Technology Stack
-- **Frontend:** HTML, CSS, ReactJS
+#### Fashion Shows
+Host fashion shows where designers can submit their work. Users can view designs from past shows and see new submissions, making the platform engaging and discovering trendy new designs. Myntra vouchers are offered as prizes to winners to increase participation.
+
+#### GoGreen Initiative
+Encourages customers to return packaging materials, reducing waste and supporting recycling efforts.
+
+#### Tech Stack
+- **Frontend:** HTML, CSS
 - **Backend:** JavaScript (Node.js)
-- **Data Storage:** Google Spreadsheets
+- **Database:** Google Spreadsheets (for storing designs uploaded by users)
 
-### Implementation
+### MVTON (Monocular-to-3D Virtual Try-On Network)
 
-#### Backend Implementation
-Our backend, built with Node.js, manages user authentication, design submissions, and integrates with Google Spreadsheets for data storage. Designs uploaded by users are stored in Google Spreadsheets, ensuring easy retrieval and display on the frontend.
+#### 3D Modeling
+Virtual Try-On feature allows users to upload photos to see how they look in different outfits. They can view themselves in both 2D and 3D models to facilitate easier outfit selection.
 
-#### Design Storage
-Design submissions are processed by the backend and stored in Google Spreadsheets. Each entry includes the designer's details, design description, and image link, facilitating display on the website and during fashion shows.
-
-### Prerequisites
-- Node.js
-- Python 3.8+
-- Google Cloud credentials for Google Sheets API
+#### Tech Stack
+- **Framework:** MVTON (Monocular-to-3D Virtual Try-On Network)
+- **Languages:** Python, PyTorch
+- **Tools:** TensorFlow, OpenCV
 
 ### Demo Video
 
