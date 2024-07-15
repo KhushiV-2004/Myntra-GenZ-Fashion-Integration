@@ -8,7 +8,7 @@ This repository enhances the Myntra shopping platform by integrating innovative 
 ### 1. Fashion Shows
 **Objective:** Host engaging fashion shows where designers can submit their work, and users can view designs from past shows and new submissions.
 
-![Fashion Shows Image](images/fashion_shows.png)
+![Fashion Shows Image](Image&Videos/fashion_shows.png)
 
 **Details:**
 - **Submission and Viewing:** Designers can upload their fashion designs through Myntra's platform, showcasing their creativity.
@@ -17,7 +17,7 @@ This repository enhances the Myntra shopping platform by integrating innovative 
 ### 2. GoGreen Initiative: Recycling Packaging and Clothes Service
 **Objective:** Promote sustainability by encouraging customers to return packaging materials for recycling.
 
-![GoGreen Image](images/gogreen.png)
+![GoGreen Image](Image&Videos/GoGreen.png)
 
 **Details:**
 - **Packaging Recycling:** Customers have the option to return and recycle packaging materials from their Myntra orders, reducing environmental impact.
