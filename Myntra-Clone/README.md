@@ -29,7 +29,7 @@ This repository enhances the Myntra shopping platform by integrating innovative 
 ### 3. Virtual Try-On: AR and 3D Modeling for Fit and Styling
 **Objective:** Enhance the online shopping experience with AR-based 3D modeling for fit assessment and virtual styling.
 
-![Virtual Try-On Image](/Image&Videos/Fashion_Show.gif)
+![Virtual Try-On GIF](/Image&Videos/Fashion_Show.gif)
 
 **Details:**
 - **Virtual Try-On:** Users can upload their photos to visualize how clothing items fit and look on their own 3D avatar, facilitating easier decision-making.
