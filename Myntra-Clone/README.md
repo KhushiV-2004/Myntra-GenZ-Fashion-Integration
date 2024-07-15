@@ -10,7 +10,7 @@ This repository enhances the Myntra shopping platform by integrating innovative 
 ### 1. Fashion Shows
 **Objective:** Host engaging fashion shows where designers can submit their work, and users can view designs from past shows and new submissions.
 
-![Fashion Shows GIF](/Image&Videos/fashion-show.gif)
+![Fashion Shows GIF](/Image&Videos/Fashion-show.gif)
 
 **Details:**
 - **Submission and Viewing:** Designers can upload their fashion designs through Myntra's platform, showcasing their creativity.
