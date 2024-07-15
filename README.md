@@ -46,8 +46,6 @@ Our backend, built with Node.js, manages user authentication, design submissions
 #### Design Storage
 Design submissions are processed by the backend and stored in Google Spreadsheets. Each entry includes the designer's details, design description, and image link, facilitating display on the website and during fashion shows.
 
-## Getting Started
-
 ### Prerequisites
 - Node.js
 - Python 3.8+
