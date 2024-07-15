@@ -17,7 +17,7 @@ This repository enhances the Myntra shopping platform by integrating innovative 
 ### 2. GoGreen Initiative: Recycling Packaging and Clothes Service
 **Objective:** Promote sustainability by encouraging customers to return packaging materials for recycling.
 
-![GoGreen Image](Image&Videos/GoGreen.png)
+![GoGreen Image](/Image&Videos/GoGreen.png)
 
 **Details:**
 - **Packaging Recycling:** Customers have the option to return and recycle packaging materials from their Myntra orders, reducing environmental impact.
