@@ -36,7 +36,7 @@ If you find our project ideas interesting or useful, show your support by clicki
     <source src="/Image&Videos/Myntra-GenZ-Fashion-Integration (1).mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
-
+![Myntra-GenZ-Fashion-Integration](/Image&Videos/Myntra-GenZ-Fashion-Integration (1).mp4 "Teaser GIF")
 ### Features
 - **User-Generated Design Uploads:** Enable users to submit original designs.
 - **Fashion Shows:** Host events to showcase user designs.
