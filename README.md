@@ -67,18 +67,18 @@ Virtual Try-On feature allows users to upload photos to see how they look in dif
 - **Tools:** TensorFlow, OpenCV
 
 ### Future Scope
-1.** Fashion Shows**
-Integration with Social Media: Allow users to share their designs and fashion show results directly to their social media profiles, increasing engagement and visibility.
-Live Streaming: Introduce live streaming of fashion shows to create a real-time interactive experience for users.
-Collaborations: Partner with established fashion brands to provide more opportunities and exposure for emerging designers.
-2.** GoGreen Initiative**
-Automated Logistics: Implement automated logistics solutions for collecting and processing returned packaging and clothing, improving efficiency and reducing carbon footprint.
-Educational Campaigns: Launch educational campaigns to raise awareness about sustainable fashion and the benefits of recycling.
-Partnerships with Recycling Companies: Establish partnerships with recycling and upcycling companies to expand the range and quality of recycled products.
-3.** Virtual Try-On**
-Enhanced Realism: Use advanced 3D scanning and modeling technologies to improve the realism and accuracy of virtual try-ons.
-Expanded Product Range: Extend virtual try-on capabilities to accessories such as shoes, hats, and jewelry, providing a complete styling experience.
-User Feedback Integration: Incorporate user feedback to continuously refine and enhance the virtual try-on experience, ensuring it meets customer needs and preferences.
+1. **Fashion Shows**
+- Integration with Social Media: Allow users to share their designs and fashion show results directly to their social media profiles, increasing engagement and visibility.
+- Live Streaming: Introduce live streaming of fashion shows to create a real-time interactive experience for users.
+- Collaborations: Partner with established fashion brands to provide more opportunities and exposure for emerging designers.
+2. **GoGreen Initiative**
+- Automated Logistics: Implement automated logistics solutions for collecting and processing returned packaging and clothing, improving efficiency and reducing carbon footprint.
+- Educational Campaigns: Launch educational campaigns to raise awareness about sustainable fashion and the benefits of recycling.
+- Partnerships with Recycling Companies: Establish partnerships with recycling and upcycling companies to expand the range and quality of recycled products.
+3.**Virtual Try-On**
+- Enhanced Realism: Use advanced 3D scanning and modeling technologies to improve the realism and accuracy of virtual try-ons.
+- Expanded Product Range: Extend virtual try-on capabilities to accessories such as shoes, hats, and jewelry, providing a complete styling experience.
+- User Feedback Integration: Incorporate user feedback to continuously refine and enhance the virtual try-on experience, ensuring it meets customer needs and preferences.
 
 ### Acknowledgments
 - The "M3D-VTON: A Monocular-to-3D Virtual Try-On Network" paper and its authors for their contributions to the AR try-on technology.
