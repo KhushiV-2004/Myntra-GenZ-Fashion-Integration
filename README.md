@@ -2,49 +2,56 @@
 Codebase for integrating social media, user-generated content, and sustainability features into Myntra. Enhance shopping with AR-based 3D modeling, recycling services, and user design uploads for GenZ fashion enthusiasts.
 
 
-# Myntra-GenZ-Fashion-Integration
+# Team Name: [Wifi_Lost]
+Team Members:
+- [Khushi Verma]
+- [Aditi Anand]
 
-## Overview
-This repository aims to enhance the Myntra shopping platform by integrating several innovative features targeting GenZ fashion enthusiasts. These features include user-generated design uploads, fashion shows, a GoGreen initiative for recycling, and a virtual try-on system using AR and 3D modeling technology.
 
-## Features
+## PROJECT OVERVIEW:
+Our project enhances the Myntra shopping platform by integrating several innovative features aimed at GenZ fashion enthusiasts. These include user-generated design uploads, fashion shows, a GoGreen initiative for recycling, and a virtual try-on system using AR and 3D modeling technology.
 
-### 1. User-Generated Design Upload and Fashion Shows
-**Objective:** Empower customers to express creativity by uploading their own fashion designs and participating in virtual or physical fashion shows.
+### Key Objectives
+1. **Fashion Shows:**
+   - Host fashion shows where designers submit their work.
+   - Allow users to view past designs and new submissions.
+   - Offer Myntra vouchers as prizes to increase participation.
 
-**Features:**
-- **Design Upload:** Enable users to submit their original fashion designs through Myntra's platform, showcasing their creativity and style.
-- **Fashion Shows:** Host regular fashion shows where selected user designs are featured, either virtually or as part of live events.
-- **Public Voting and Rewards:** Allow community voting on submitted designs and offer rewards or recognition to top designs or designers.
+2. **GoGreen Initiative: Recycling Packaging and Clothes Service:**
+   - Encourage customers to return packaging materials.
+   - Support recycling and reduce waste.
 
-A dedicated fashion website has been created where people can upload their ideas, and these designs will be displayed and featured in various fashion events.
+3. **Virtual Try-On: AR and 3D Modeling for Fit and Styling:**
+   - Allow users to upload photos to see how outfits look on them.
+   - Provide both 2D and 3D model views for better outfit visualization.
 
-### 2. GoGreen Initiative: Recycling Packaging and Clothes Service
-**Objective:** Promote sustainability by offering recycling services for packaging materials and old clothes, aligning with eco-conscious consumer values.
+### Features
+- **User-Generated Design Uploads:** Enable users to submit original designs.
+- **Fashion Shows:** Host events to showcase user designs.
+- **GoGreen Initiative:** Promote recycling of packaging and old clothes.
+- **Virtual Try-On:** Use AR and 3D modeling for fit and styling.
 
-**Features:**
-- **Packaging Recycling:** Provide options for customers to return and recycle packaging materials from their Myntra orders, minimizing environmental impact.
-- **Clothing Recycling:** Establish a service where customers can return old clothes for recycling or upcycling into new products, reducing textile waste.
-- **Incentives:** Offer incentives such as discounts or rewards for participating in recycling programs, encouraging sustainable behaviors.
+## Implementation Details
 
-A feature allows users to opt for eco-friendly packaging during the checkout process, indicating their willingness to return package cartons for reuse.
+### Technology Stack
+- **Frontend:** HTML, CSS, ReactJS
+- **Backend:** JavaScript (Node.js)
+- **Data Storage:** Google Spreadsheets
 
-### 3. Virtual Try-On: AR and 3D Modeling for Fit and Styling
-**Objective:** Enhance the online shopping experience by offering AR-based 3D modeling for fit assessment and virtual styling recommendations.
+### Implementation
 
-**Features:**
-- **Virtual Try-On:** Use AR technology to allow customers to visualize how clothing items fit and look on their own 3D avatar, based on uploaded photos or measurements.
-- **Styling Recommendations:** Utilize AI to suggest outfit combinations and styling tips based on customer preferences and product compatibility.
-- **Fashion Advice:** Provide personalized fashion advice, including outfit suggestions tailored to individual preferences.
+#### Backend Implementation
+Our backend, built with Node.js, manages user authentication, design submissions, and integrates with Google Spreadsheets for data storage. Designs uploaded by users are stored in Google Spreadsheets, ensuring easy retrieval and display on the frontend.
 
-This feature leverages the "M3D-VTON: A Monocular-to-3D Virtual Try-On Network," an official code for the ICCV2021 paper "M3D-VTON: A Monocular-to-3D Virtual Try-on Network."
+#### Design Storage
+Design submissions are processed by the backend and stored in Google Spreadsheets. Each entry includes the designer's details, design description, and image link, facilitating display on the website and during fashion shows.
 
 ## Getting Started
 
 ### Prerequisites
-- Python 3.8+
 - Node.js
-- React
+- Python 3.8+
+- Google Cloud credentials for Google Sheets API
 
 ### Installation
 
