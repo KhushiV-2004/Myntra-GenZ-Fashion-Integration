@@ -70,7 +70,7 @@ Now you should get the point cloud file prepared for remeshing under results/ali
 
 Now the final 3D try-on result should be obtained:
 
-![Try-on Result](/assets/meshlab_snapshot.png "Try-on Result")
+![Try-on Result](/M3D-VTON/assets/meshlab_snapshot.png "Try-on Result")
 
 ## Training on MPV3D Dataset
 
