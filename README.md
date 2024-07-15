@@ -27,12 +27,10 @@ Our project enhances the Myntra shopping platform by integrating several innovat
 
 ## Idea Submission
 
-If you find our project ideas interesting or useful, show your support by clicking the link below:
-
 [💡Idea](Image&Videos/IITJAMMU_Wifi_Lost.pdf)
 
 ### Demo Video
-![Myntra-GenZ-Fashion-Integration](/Image&Videos/Myntra-GenZ-Fashion-Integration (1).mp4 "Video")
+![Demo video](/Image&Videos/Myntra-GenZ-Fashion-Integration_(1).mp4)
 
 ### Features
 - **User-Generated Design Uploads:** Enable users to submit original designs.
