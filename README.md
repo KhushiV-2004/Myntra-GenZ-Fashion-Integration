@@ -53,8 +53,11 @@ Design submissions are processed by the backend and stored in Google Spreadsheet
 - Python 3.8+
 - Google Cloud credentials for Google Sheets API
 
-### Installation
+### Demo Video
 
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/yourusername/Myntra-GenZ-Fashion-Integration.git
+
+
+
+### Acknowledgments
+- The "M3D-VTON: A Monocular-to-3D Virtual Try-On Network" paper and its authors for their contributions to the AR try-on technology.
+- The Myntra team for their support and collaboration.
