@@ -1,0 +1,123 @@
+/* Additional styles for the ongoing shows page */
+
+body {
+    background-image: url('../IMAGES/background.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff; /* Set text color to white for better contrast */
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+header nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+header nav ul li a:hover {
+    color: #f39c12; /* Hover color */
+}
+
+#ongoing-shows {
+    padding: 40px;
+    text-align: center;
+}
+
+.show-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.show-item {
+    position: relative;
+    background: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.show-item h3 {
+    color: #f39c12;
+    font-size: 1.8em;
+}
+
+.show-item .deadline {
+    font-size: 1.2em;
+    color: #fff;
+}
+
+.show-item:hover {
+    transform: scale(1.05);
+    background-color: rgba(0, 0, 0, 0.7); /* Darker background on hover */
+}
+
+/* Tech and Fashion Specific Style */
+.show-item.tech-fashion {
+    background-image: url('../IMAGES/tech.jpg'); /* Example image path */
+    background-size: cover;
+}
+
+/* Eco-Fashion Specific Style */
+.show-item.eco-fashion {
+    background-image: url('../IMAGES/eco.jpeg'); /* Example image path */
+    background-size: cover;
+}
+
+/* Vintage Revival Specific Style */
+.show-item.vintage-revival {
+    background-image: url('../IMAGES/vintage.jpg'); /* Example image path */
+    background-size: cover;
+}
+
+/* Overlay Text on Image */
+.show-item h3, .show-item .deadline {
+    position: relative;
+    z-index: 1;
+}
+
+.show-item:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5); /* Semi-transparent overlay */
+    z-index: 0;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.show-item:hover:before {
+    background-color: rgba(0, 0, 0, 0.7); /* Darker overlay on hover */
+}

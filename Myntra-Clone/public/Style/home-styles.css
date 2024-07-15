@@ -1,0 +1,128 @@
+/* Additional styles for the home page */
+
+/* Background image for the entire page */
+body {
+    background-image: url('../IMAGES/background.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff; /* Set text color to white for better contrast */
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* Header styling */
+header {
+    background: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+header nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+header nav ul li a:hover {
+    color: #f39c12; /* Hover color */
+}
+
+/* Links section styling */
+#links {
+    padding: 40px;
+    text-align: center;
+}
+
+.links-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.links-section a {
+    text-decoration: none;
+    text-align: center;
+    color: #fff;
+    font-size: 1.2em;
+    transition: transform 0.3s ease, color 0.3s ease;
+    display: block;
+    margin: 10px;
+}
+
+.links-section a:hover {
+    transform: scale(1.1);
+    color: #f39c12; /* Hover color */
+}
+
+.links-section img {
+    width: 250px;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.links-section img:hover {
+    transform: translateY(-5px);
+}
+
+.link-caption {
+    font-size: 1.5em;
+    margin-top: 10px;
+}
+
+/* About section styling */
+#about {
+    background: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    padding: 40px;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+/* Media Queries for Responsiveness */
+@media (max-width: 768px) {
+    .links-section {
+        flex-direction: column;
+    }
+
+    .links-section img {
+        width: 100%;
+        max-width: 300px;
+    }
+
+    .link-caption {
+        font-size: 1.2em;
+    }
+}
+
+@media (max-width: 480px) {
+    .links-section img {
+        width: 100%;
+        max-width: 200px;
+    }
+
+    .link-caption {
+        font-size: 1em;
+    }
+}
+

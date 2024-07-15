@@ -1,0 +1,86 @@
+/* Additional styles for the individual show pages */
+
+body {
+    background: url('../IMAGES/background.jpg') no-repeat center center fixed; /* Add your background image */
+    background-size: cover;
+    color: #fff; /* Make text white for better contrast */
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background for header */
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.5em;
+    margin: 0;
+    color: #ff4081; /* Pink color for header text */
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #ffd700; /* Gold color for nav links */
+    text-decoration: none;
+}
+
+#show-details {
+    padding: 20px;
+    text-align: center;
+}
+
+#winner {
+    margin: 20px 0;
+}
+
+#show-details img {
+    width: 80%;
+    max-width: 300px; /* Smaller size for the winner image */
+    margin: 20px 0;
+    border-radius: 8px;
+    border: 2px solid #fff; /* White border for images */
+}
+
+#show-details .scrolling-bar {
+    display: flex;
+    overflow-x: auto;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.7); /* Same grey background as the header */
+    border-radius: 10px;
+    height: 600px; /* Increased height for better visibility */
+    align-items: center;
+}
+
+#show-details .scrolling-bar .contestant {
+    margin-right: 20px;
+    text-align: center;
+    flex-shrink: 0;
+}
+
+#show-details .scrolling-bar img {
+    width: 250px; /* Increased width for better visibility */
+    height: 500px; /* Ensure all images are of the same size */
+    object-fit: cover;
+    border-radius: 4px;
+    border: 2px solid #ffd700; /* Gold border for contestant images */
+}
+
+#show-details .scrolling-bar p {
+    margin: 5px 0 0;
+    color: #ffd700; /* Gold color for contestant names */
+    font-weight: bold;
+}

@@ -1,0 +1,65 @@
+/* Additional styles for the past-shows page */
+
+#previous-shows {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.show {
+    width: 30%;
+    padding: 20px;
+    margin-bottom: 30px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.show img {
+    width: 100%;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+.show h2 {
+    font-weight: bold;
+    color: #333; /* Black color for headings */
+}
+
+.show .theme {
+    color: #ff4081; /* Pink color for theme */
+    margin-top: 10px;
+}
+
+.show .description {
+    font-size: 0.9em;
+    color: #666; /* Gray color for description */
+}
+
+/* Styles for additional text about fashion shows */
+
+#about-fashion-shows {
+    background-color: #ffd700; /* Different background color for the additional text section */
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.about-text {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.about-text h2 {
+    font-size: 2em;
+    color: #333; /* Black color for headings */
+    margin-bottom: 20px;
+}
+
+.about-text p {
+    font-size: 1.1em;
+    line-height: 1.6;
+    color: #333; /* Black color for text */
+}
