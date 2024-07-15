@@ -27,7 +27,7 @@ Our project enhances the Myntra shopping platform by integrating several innovat
 
 ## Idea Submission
 
-[💡Idea](Image&Videos/IITJAMMU_Wifi_Lost.pdf)
+[💡Idea]([Image&Videos/IITJAMMU_Wifi_Lost.pdf](https://drive.google.com/file/d/1zE9cP-aRUmw_18oZyUXZlmkbyozug01A/view?usp=sharing))
 
 ### Demo Video
 
