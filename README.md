@@ -29,11 +29,11 @@ Our project enhances the Myntra shopping platform by integrating several innovat
 
 If you find our project ideas interesting or useful, show your support by clicking the link below:
 
-[💡Idea](link-to-your-repository)
+[💡Idea](Image&Videos/IITJAMMU_Wifi_Lost.pdf)
 
 ### Demo Video
 <video width="640" height="360" controls>
-    <source src="videos/your-video-file.mp4" type="video/mp4">
+    <source src="Image&Videos/Myntra-GenZ-Fashion-Integration (1).mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
