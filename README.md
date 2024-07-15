@@ -31,9 +31,7 @@ Our project enhances the Myntra shopping platform by integrating several innovat
 
 ### Demo Video
 
-<div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/A4KfPtVelEU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[![Watch the video](https://img.youtube.com/vi/A4KfPtVelEU/0.jpg)](https://www.youtube.com/watch?v=A4KfPtVelEU)
 
 ### Features
 - **User-Generated Design Uploads:** Enable users to submit original designs.
