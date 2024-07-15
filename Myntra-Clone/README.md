@@ -3,6 +3,8 @@
 ## Overview
 This repository enhances the Myntra shopping platform by integrating innovative features aimed at GenZ fashion enthusiasts. It includes user-generated design uploads and fashion shows, a GoGreen initiative for recycling, and a Virtual Tryon feature using AR and 3D modeling technology.
 
+![Overview Image](/Image&Videos/Overview.png)
+
 ## Features
 
 ### 1. Fashion Shows
@@ -27,7 +29,7 @@ This repository enhances the Myntra shopping platform by integrating innovative 
 ### 3. Virtual Try-On: AR and 3D Modeling for Fit and Styling
 **Objective:** Enhance the online shopping experience with AR-based 3D modeling for fit assessment and virtual styling.
 
-![Virtual Try-On Image](/Image&Videos/Fashion_Show.gig)
+![Virtual Try-On Image](/Image&Videos/Fashion_Show.gif)
 
 **Details:**
 - **Virtual Try-On:** Users can upload their photos to visualize how clothing items fit and look on their own 3D avatar, facilitating easier decision-making.
