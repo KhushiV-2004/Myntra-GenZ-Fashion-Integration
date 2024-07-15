@@ -29,7 +29,7 @@ Our project enhances the Myntra shopping platform by integrating several innovat
 
 If you find our project ideas interesting or useful, show your support by clicking the link below:
 
-[👍 Idea](link-to-your-repository)
+[💡Idea](link-to-your-repository)
 
 ### Demo Video
 <video width="640" height="360" controls>
