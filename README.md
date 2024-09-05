@@ -59,8 +59,8 @@ Virtual Try-On feature allows users to upload photos to see how they look in dif
 
 #### Tech Stack
 - **Framework:** MVTON (Monocular-to-3D Virtual Try-On Network)
-- **Languages:** Python, PyTorch
-- **Tools:** TensorFlow, OpenCV
+- **Languages:** Python
+- **Tools:** PyTorch, OpenCV
 
 ### Future Scope
 1. **Fashion Shows**
